@@ -6,7 +6,7 @@ I am a final-year student majoring in **Electronics and Communications Engineeri
 
 - 🔭 **I’m currently working on:** RTL Design, Verification methodologies, and VLSI Design.
 - 🌱 **I’m currently learning:** SystemVerilog, VLSI Design, and Advanced FPGA prototyping.
-- 🎓 **Education:** HCMC University of Technology and Education (HCMUTE).
+- 🎓 **Education:** HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY AND EDUCATION (HCMUTE).
 - 📫 **How to reach me:** [tuandinhnguyen2004@gmail.com](mailto:tuandinhnguyen2004@gmail.com)
 
 ---
