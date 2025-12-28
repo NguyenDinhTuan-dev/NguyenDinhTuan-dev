@@ -2,12 +2,12 @@
 
 ### 👨‍💻 Electronics Engineering Student | RTL Design | VLSI Enthusiast
 
-[cite_start]I am a final-year student majoring in **Electronics and Communications Engineering Technology** at **HCMC University of Technology and Education (HCMUTE)**[cite: 15, 16]. [cite_start]I have a strong passion for **RTL Design**, **FPGA**, and **VLSI** integrated circuit design[cite: 8]. [cite_start]My goal is to become a professional RTL Design and Verification Engineer[cite: 10].
+I am a final-year student majoring in **Electronics and Communications Engineering Technology** at **HCMC University of Technology and Education (HCMUTE)**. I have a strong passion for **RTL Design**, **FPGA**, and **VLSI** integrated circuit design. My goal is to become a professional RTL Design and Verification Engineer.
 
-- 🔭 **I’m currently working on:** RTL Design & Verification methodologies.
-- 🌱 **I’m currently learning:** SystemVerilog and Advanced FPGA prototyping.
-- [cite_start]🎓 **Education:** HCMC University of Technology and Education (HCMUTE)[cite: 15].
-- [cite_start]📫 **How to reach me:** [tuandinhnguyen2004@gmail.com](mailto:tuandinhnguyen2004@gmail.com) [cite: 5]
+- 🔭 **I’m currently working on:** RTL Design, Verification methodologies, and **Custom IC Layout**.
+- 🌱 **I’m currently learning:** SystemVerilog, **Low-power VLSI Design**, and Advanced FPGA prototyping.
+- 🎓 **Education:** HCMC University of Technology and Education (HCMUTE).
+- 📫 **How to reach me:** [tuandinhnguyen2004@gmail.com](mailto:tuandinhnguyen2004@gmail.com)
 
 ---
 
